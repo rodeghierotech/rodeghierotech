@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="center">Salve!</h1>
+<h1 data-importer="text" align="center">Salve! Me chamo Henrique Rodeghiero.</h1>
 
 ###
 
-<h2 data-importer="text" align="left">Me chamo Henrique Rodeghiero, sou desenvolvedor júnior e estou cursando ADS</h2>
+<h2 data-importer="text" align="left">Análise e Desenvolvimento de Sistemas | Typescript | Python | Fullstack</h2>
 
 ###
 
